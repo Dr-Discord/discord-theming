@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "node inject.js"
+    "install": "node inject.js --install",
+    "uninstall": "node inject.js --uninstall"
   },
   "repository": {
     "type": "git",

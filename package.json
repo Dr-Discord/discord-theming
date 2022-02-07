@@ -1,0 +1,24 @@
+{
+  "name": "discord-theming",
+  "version": "1.0.0",
+  "description": "Theme every single thing that discord has, like the splash screen and the main app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node inject.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dr-Discord/discord-theming.git"
+  },
+  "keywords": [
+    "discord",
+    "themes"
+  ],
+  "author": "doggybootsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dr-Discord/discord-theming/issues"
+  },
+  "homepage": "https://github.com/Dr-Discord/discord-theming#readme"
+}
